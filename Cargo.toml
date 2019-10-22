@@ -1,0 +1,11 @@
+[package]
+name = "wouter"
+version = "0.1.0"
+authors = ["Robert den Harink <robert@robhar.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tiny_http = "0.6.2"
+rust_gpiozero = "0.2.0"
